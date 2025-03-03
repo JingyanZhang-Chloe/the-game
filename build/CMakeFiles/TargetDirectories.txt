@@ -1,0 +1,4 @@
+/Users/zhangjingyan/the-game/build/CMakeFiles/game_lib.dir
+/Users/zhangjingyan/the-game/build/CMakeFiles/the-game.dir
+/Users/zhangjingyan/the-game/build/CMakeFiles/edit_cache.dir
+/Users/zhangjingyan/the-game/build/CMakeFiles/rebuild_cache.dir
